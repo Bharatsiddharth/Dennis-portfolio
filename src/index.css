@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+.hr-thin {
+    height: 0.5px;
+    border: none;
+    background-color: #ccc;
+  }
